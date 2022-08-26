@@ -32,7 +32,7 @@ Obyno repository
 
 {
 
-  alert("correct");
+
 
 return true;
 
@@ -68,7 +68,11 @@ return false;
 
 <link rel="stylesheet" type="text/css" href="submitted.html">
 
-<br/>
+<br/># Obyno
+
+Obyno repository# Obyno
+
+Obyno repository
 
  <p style="color:black;font-size:90%;">we at <strong style="color:purple;font-size:90%;">FAITHSTITCHES</strong> quality and comfort is our watch word.</p>
 
@@ -126,15 +130,9 @@ alert("you are welcome to FAITHSTITCHES.com");
 
    <p style="color:blue;font-size:130%;"><strong>Please Select :</strong><br>
 
-    <p style="color:black;font-size:120%;">
-
-  <input type="radio" name="gown" value="Smoke gown" checked><strong>Smoke gown</strong><br>
-
-  <input type="radio" name="gown" value="flair gown"><strong>Flair gown</strong><br>
-
-  <input type="radio" name="gown" value="Simple short gown"><strong>Simple Short Gown</strong><br>
-
- <p style="color: blue;font-size:130%;"><strong>Kindly Select from the options below :</strong>
+    <p gown" 
+  
+  
 
   <p style="color:black;font-size:120%;">
 
@@ -147,18 +145,15 @@ alert("you are welcome to FAITHSTITCHES.com");
    <p style="color:blue;font-size:130%;"><strong>Measurements</strong> :<br>
 
     <p style="color:black;font-size:120%;">
+ : <input type="text" size="2" name="Height">
 
-<strong>Height</strong> : <input type="text" size="2" name="Height">
 
-<strong>Width</strong> : <input type="text" size="2" name="Width">
-
-<strong>Leg</strong> : <input type="text" size="2" name="Shoulder length"><br>
+br>
 
 <strong>Neck</strong>: <input type="text" size="2" name="Neck">
 
-<strong>Arm</strong> : <input type="text" size="2" name="Arm length">
 
-<strong>Wrist</strong> : <input type="text" size="2" name="wrist"><br>
+
 
 <strong>Shoulder</strong> : <input type="text" size="2" name="Leg length">
 
@@ -166,12 +161,12 @@ alert("you are welcome to FAITHSTITCHES.com");
 
 <strong>Chest</strong> : <input type="text" size="2" name="Chest"><br>
 
-<input type="Submit" value="Submit">
 
-  </form>
 
-  <img src="009.jpg"/>
 
-</body>
 
-</html>
+
+
+
+
+
